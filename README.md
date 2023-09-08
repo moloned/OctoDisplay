@@ -24,7 +24,7 @@ sudo apt-get install i2c-tools
 
 sudo apt install python3-smbus 
 
-# Display
+# Operation
 
 ![Connected Display](OctoDisplay.jpg)
 
