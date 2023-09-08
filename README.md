@@ -6,12 +6,16 @@ Removes the need for a display or looking for attached devices on your network w
 
 Connects to the i2c interface on the Raspberry Pi header
 
-![Connected Display](OctoDisplay.jpg)
-
 # Installation
 
 sudo raspi-config to enable i2c interface
 sudo pip install RPLCD 
 sudo apt-get install i2c-tools 
-sudo apt install python3-smbus
+sudo apt install python3-smbus 
+
+# Display
+
+![Connected Display](OctoDisplay.jpg)
+
+
 
